@@ -14,9 +14,9 @@ It takes number of players and their names as input from the users
 It takes length and breadth of the board and number of dice as input from the user and generates a random value for the dice
 
 ## WORKING
-If a player reaches snake head position, then he goes down to it's tail
-If a player reaches ladder, then he goes up
-Whenever he reaches the destination, he will become the winner and remaining players will continue the game until one player left.
+1. If a player reaches snake head position, then he goes down to it's tail
+2. If a player reaches ladder, then he goes up
+3. Whenever he reaches the destination, he will become the winner and remaining players will continue the game until one player left.
 
 ## OUTPUT
 ![Screenshot (88)](https://user-images.githubusercontent.com/72642273/145794584-88fb0f43-5bc8-4a7e-bdb6-eab3d65658c2.png)
